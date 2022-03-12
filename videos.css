@@ -97,8 +97,8 @@ li .hover-line:hover{
 
 .blog-post{
     width: 100%;
-    max-width: 70rem;
-    padding: 3rem;
+    max-width: 65rem;
+    padding: 2rem;
     margin-bottom: 50px;
     background-color: #fafafa;
     box-sizing: 0 1.4rem 8rem rgba(0,0,0,0.2);
@@ -121,7 +121,7 @@ li .hover-line:hover{
     position: relative; */
 
         /* min-width: 20rem; */
-        max-width: 20rem;
+        max-width: 22rem;
         transform: translateX(-8rem);
         position: relative;
         box-shadow: .5rem .5rem 3rem 5px rgba(0,0,0,0.15) !important; 
@@ -159,8 +159,8 @@ li .hover-line:hover{
 } */
 
 .blog-post-title{
-    font-size: 2.5rem;
-    margin: 1rem 0 .5rem;
+    font-size: 3rem;
+    margin: 0.5rem 0 .5rem;
     text-transform: uppercase !important;
     color: #13213C;font-weight: 700;
 }
