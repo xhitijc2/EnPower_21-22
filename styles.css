@@ -301,6 +301,7 @@ form {
   font-size: 40px;
   padding-top: 1%;
   position: relative;
+  left: -40px;
 }
 
 .left-content li {
